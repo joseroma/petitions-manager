@@ -1,5 +1,8 @@
 # Gestor-BDB
 ## How to use this APP?
+
+Web application for database petitions. Front-end made with AngularJS and Back-end with Java (SpringBoot). Using SQL (MySQL, MariaDB, Postgree) and NoSQL(MongoDB) databases.
+
 ### Requirements:
 
 
